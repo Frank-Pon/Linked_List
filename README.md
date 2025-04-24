@@ -36,6 +36,7 @@ interview_project
 在problem.py裡,程式碼尾端有#字號的標記是搞不懂的地方
 
 curr=[] #
+
 even.append(curr) #
 
 理論上這樣會讓空陣列被放進even,但是輸出結果是even裡沒有空陣列,全都是正確的陣列
