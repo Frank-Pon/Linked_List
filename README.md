@@ -25,6 +25,8 @@ interview_project
         ├─ linked_mid.py (找中間節點)
         ├─ linked_mid2.py (找倒數第K個節點)
         ├─ linked_reverse.py (字串反轉)
+        ├─ linked_odd.py (取偶數段陣列)
+        ├─ problem.py (目前無解問題紀錄)
         └─ README.md (程式簡介)
 ```
 
