@@ -38,7 +38,5 @@ while linked_list:
     #避免最後沒有奇數不會比較,所以最後再比較一次
 
 
-
-
 print(f"偶數段: {even} 最長偶數段為: {long}")
 
